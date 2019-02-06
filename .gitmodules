@@ -1,0 +1,6 @@
+[submodule "st_core"]
+	path = st_core
+	url = ../st_core
+[submodule "st_keras"]
+	path = st_keras
+	url = ../st_keras
